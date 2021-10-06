@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@allin1here7 ](https://www.telegram.dog/allin1here)**
 
 ### Features
 - Fully customisable.
@@ -107,7 +107,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/allin1here7) For Support/Assistance And Our [Channel](https://www.telegram.dog/allin1here7) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
